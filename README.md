@@ -10,7 +10,7 @@ I.e between version 1 and version 2 of both campaigns which is better best on th
 Sql was used to extract necessary information from the database.
 
 Please follow this this link: https://docs.google.com/spreadsheets/d/1z3K-crqhsnKbn-mDn1L4K_Q6mPancaSyI9e4TMgB5KE/edit?usp=sharing 
-to see how the AB test was conducted as weel as the result of my AB test on the sales website.
+to see how the AB test was conducted as well as the result of my AB test on the sales website.
 
 In the google, a binomial calculator was built for AB test calculator. this calculator was used to derive my result. 
 
